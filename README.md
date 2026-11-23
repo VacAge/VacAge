@@ -29,6 +29,7 @@ I build and run web products end-to-end: page content and knowledge bases, admin
 | **ExCore** | Modular plugin core for Paper: 69 modules, config-driven lifecycle, reload without restart | Java 21, Maven, ProGuard | private |
 | **Excalibur MMORPG** | Game systems, content pipeline, player rig and animations for a Dark Souls-style server | Java, Purpur, MMOCore, Blockbench | private |
 | **utility-hub** | Browser tools: pixel-art editor and skill-tree editor with export | React, Vite, Tailwind | - |
+| **Content QA Playbook** | Open checklists and templates for content QA on a site and in an app: publishing, reference data, mobile checks, DevTools, bug reports | Markdown, GitHub | [link](https://github.com/VacAge/content-qa-playbook) |
 | **AnimeOn Helper** | Chrome MV3 extension: state machine, storage, real-browser tests | JavaScript, Manifest V3 | private |
 
 ## Stack
@@ -85,7 +86,7 @@ I build and run web products end-to-end: page content and knowledge bases, admin
 ## Currently
 
 - Closing the gaps for a content-manager role: HTML/CSS, Word/Excel, QA fundamentals and Git courses (Stepik), with certificates.
-- Writing a reusable content-QA checklist: what to verify on a page before and after publishing.
+- Maintaining the open content-QA playbook: checklists, templates and filled examples (GitHub, MIT).
 - Keeping a 129-document project knowledge base: deployment, rollback, backups, incident notes.
 
 ## Contacts
