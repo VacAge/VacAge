@@ -64,6 +64,8 @@ I build and run web products end-to-end: page content and knowledge bases, admin
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square)
+![DeepSeek Harness](https://img.shields.io/badge/DeepSeek_Harness-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)
 
 ### Everything I have worked with
 
