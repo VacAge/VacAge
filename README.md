@@ -81,3 +81,5 @@ I build and run web products end-to-end: page content and knowledge bases, admin
 ---
 
 <sub>Most repositories are private; selected work is shown through public products and this profile.</sub>
+
+<!-- updated 2026-11-23 -->
